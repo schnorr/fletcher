@@ -141,7 +141,7 @@ int main(int argc, char** argv) {
   printf("OpenACC directives disabled\n");
 #endif
 
-#endif
+#endif // _DUMP
 
   // allocate input anisotropy arrays
   
